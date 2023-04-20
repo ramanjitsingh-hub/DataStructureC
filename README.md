@@ -28,7 +28,7 @@ The header file provides a set of functions for each data structure, such as `cr
 
 3. To use the functions, simply include the header file in your C program using:
 
-```bash
+```
   #include "data_structures.h"
 
 ```
