@@ -1,0 +1,11 @@
+{
+  "name": "datastructurec",
+  "version": "1.0.0",
+  "description": "A C library containing implementations of commonly used data structures. The library includes implementations of various data structures including singly and doubly linked lists, stacks, queues, hash tables, and binary trees. It provides simple and efficient methods for creating, manipulating, and accessing these data structures, making it easy to integrate them into your C projects. This library is designed to be lightweight and easy to use, making it a great choice for projects that require the use of data structures in C.",
+  "main": "data_structure.c",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramanjit Singh",
+  "license": "MIT"
+}

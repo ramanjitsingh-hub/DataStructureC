@@ -12,6 +12,10 @@ Data Structures Included
     Hash Table
 Each data structure is implemented as a separate module, with its own header file and implementation file.
 
+## Installation using NPM
+```
+npm i datastructurec 
+```
 
 ## Installation
 
