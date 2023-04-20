@@ -17,7 +17,7 @@ Each data structure is implemented as a separate module, with its own header fil
 npm i datastructurec 
 ```
 
-## Installation
+## Installation using git clone
 
 All data structures are implemented in a single header file data_structures.h.
 
